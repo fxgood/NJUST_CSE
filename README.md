@@ -9,7 +9,7 @@
 
 资源如文件名所示，大家可以下载查看具体内容。
 
-复试真题可以看这位老哥的无私分享：
+复试上机可以看这位老哥的无私分享：
 
 https://github.com/csbhr/NUST_PostgraduateExam
 
